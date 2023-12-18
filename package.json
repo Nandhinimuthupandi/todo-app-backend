@@ -22,5 +22,6 @@
     "nodemailer": "^6.9.1",
     "peer": "^1.0.2",
     "validator": "^13.7.0"
-  }
+  },
+  "engines": {"node": "16"}
 }
